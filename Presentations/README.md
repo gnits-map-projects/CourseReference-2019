@@ -1,2 +1,2 @@
-#Presentations
-Will hold all the presentations given.
+### Presentations
+All presentations given as part of the course.
